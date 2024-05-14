@@ -1,0 +1,13 @@
+.page {
+  background: #fff;
+  color: #333333;
+  font-weight: 400;
+  min-width: 320px;
+  max-width: 1920px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 100px 0 0 349px;
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  font-family: 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+}

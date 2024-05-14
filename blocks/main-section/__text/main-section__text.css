@@ -1,0 +1,11 @@
+.main-section__text {
+  margin: 0 0 16px;
+  padding: 0;
+  max-width: 704px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.main-section__text:last-child {
+  margin-bottom: 0;
+}
