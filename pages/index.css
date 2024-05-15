@@ -11,6 +11,7 @@
 @import url(../blocks/header/__button-icon/header__button-icon.css);
 @import url(../blocks/header/__button-icon/_is-rotated/header__button-icon_is-rotated.css);
 @import url(../blocks/header/__text/header__text.css);
+@import url(../blocks/header/__text/_is-active/header__text_is-active.css);
 @import url(../blocks/header/__options-container/header__options-container.css);
 @import url(../blocks/header/__options-container/_is-opened/header__options-container_is-opened.css);
 @import url(../blocks/header/__options/header__options.css);
@@ -21,6 +22,8 @@
 @import url(../blocks/header/__flag/_type/header__flag_type_brasilian.css);
 @import url(../blocks/header/__flag/_type/header__flag_type_chinese.css);
 @import url(../blocks/header/__flag/_type/header__flag_type_russian.css);
+
+@import url(../blocks/content/content.css);
 
 @import url(../blocks/main-section/__title/main-section__title.css);
 @import url(../blocks/main-section/__text/main-section__text.css);

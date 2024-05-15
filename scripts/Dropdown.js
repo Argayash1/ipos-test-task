@@ -13,13 +13,18 @@ class Dropdown {
     this._selectBtnIconElement.classList.toggle('header__button-icon_is-rotated');
   }
 
-  updateSelectButton(option) {
+  updateSelectButtonText(option) {
     let selectedOption = option.querySelector('.header__option-text').textContent;
     this._selectButtonTextElement.textContent = selectedOption;
+    if (this._selectButtonTextElement.classList.contains('.header__text_is-active')) {
+      return
+    } else {
+      this._selectButtonTextElement.classList.add('header__text_is-active')
+    }
   }
 
   _optionClick(option) {
-    this.updateSelectButton(option)
+    this.updateSelectButtonText(option)
     this.toggle()
   }
 

@@ -1,11 +1,10 @@
 .page__content {
-    margin-top: 40px;
-    margin-bottom: 67px;
+  margin-left: 334px;
+  margin-right: auto;
 }
 
-@media screen and (max-width: 568px) {
-    .page__content {
-        margin-top: 42px;
-        margin-bottom: 48px;
-    }
+@media screen and (max-width: 1171px) {
+  .page__content {
+    margin-left: auto;
+  }
 }

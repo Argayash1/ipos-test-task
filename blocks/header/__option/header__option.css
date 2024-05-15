@@ -1,5 +1,5 @@
 .header__option {
-  width: 372px;
+  max-width: 372px;
   height: 40px;
   display: flex;
   gap: 8px;
