@@ -9,4 +9,5 @@
   top: 80px;
   background-color: #fff;
   width: 100%;
+  z-index: 10;
 }
