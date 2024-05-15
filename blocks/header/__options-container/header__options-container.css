@@ -3,4 +3,10 @@
   box-sizing: border-box;
   border: 1px solid #ebebeb;
   border-radius: 4px;
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 80px;
+  background-color: #fff;
+  width: 100%;
 }

@@ -9,8 +9,10 @@
 @import url(../blocks/header/__dropdown/header__dropdown.css);
 @import url(../blocks/header/__button/header__button.css);
 @import url(../blocks/header/__button-icon/header__button-icon.css);
+@import url(../blocks/header/__button-icon/_is-rotated/header__button-icon_is-rotated.css);
 @import url(../blocks/header/__text/header__text.css);
 @import url(../blocks/header/__options-container/header__options-container.css);
+@import url(../blocks/header/__options-container/_is-opened/header__options-container_is-opened.css);
 @import url(../blocks/header/__options/header__options.css);
 @import url(../blocks/header/__option/header__option.css);
 @import url(../blocks/header/__flag/header__flag.css);
