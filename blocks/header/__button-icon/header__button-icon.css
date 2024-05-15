@@ -1,0 +1,5 @@
+.header__button-icon {
+  width: 20px;
+  height: 20px;
+  background-image: url('../../../images/header-dropdown-arrow.svg');
+}

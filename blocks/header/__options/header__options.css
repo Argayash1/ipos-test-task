@@ -1,0 +1,20 @@
+.header__options {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  height: 160px;
+}
+
+.header__options::-webkit-scrollbar {
+  width: 4px;
+}
+
+.header__options::-webkit-scrollbar-thumb {
+  background-color: #ebebeb;
+  border-radius: 50px;
+}
+
+.header__options::-webkit-scrollbar-track {
+  background-color: transparent;
+}

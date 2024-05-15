@@ -5,8 +5,20 @@
 @import url(../blocks/page/__content/page__content.css);
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__dropdown-container/header__dropdown-container.css);
 @import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__dropdown/header__dropdown.css);
+@import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/header/__button-icon/header__button-icon.css);
+@import url(../blocks/header/__text/header__text.css);
+@import url(../blocks/header/__options-container/header__options-container.css);
+@import url(../blocks/header/__options/header__options.css);
+@import url(../blocks/header/__option/header__option.css);
+@import url(../blocks/header/__flag/header__flag.css);
+@import url(../blocks/header/__flag/_type/header__flag_type_argeintinian.css);
+@import url(../blocks/header/__flag/_type/header__flag_type_belorussian.css);
+@import url(../blocks/header/__flag/_type/header__flag_type_brasilian.css);
+@import url(../blocks/header/__flag/_type/header__flag_type_chinese.css);
+@import url(../blocks/header/__flag/_type/header__flag_type_russian.css);
 
 @import url(../blocks/main-section/__title/main-section__title.css);
 @import url(../blocks/main-section/__text/main-section__text.css);
