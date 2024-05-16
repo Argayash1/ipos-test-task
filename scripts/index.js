@@ -8,3 +8,4 @@ dropdownWithTitleChange.setEventListeners()
 
 const dropdownWithAlert = new DropdownWithAlert('.header__dropdown_type_alert')
 dropdownWithAlert.setEventListeners()
+dropdownWithAlert.selectInitialValue()
